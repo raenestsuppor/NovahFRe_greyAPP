@@ -1,4 +1,4 @@
-const BASE_URL = "https://novah-grey-api.vercel.app";
+const BASE_URL = "https://novahfr-grey.vercel.app";
 
 export default BASE_URL;
 
